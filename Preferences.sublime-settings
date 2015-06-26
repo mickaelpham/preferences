@@ -1,53 +1,62 @@
 {
-	// In the sidebar, display folder name in bold
-	"bold_folder_labels": true,
-	
-	// Make sure to install the spacegray theme first through package control
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	
-	// Work convention
-	"ensure_newline_at_eof_on_save": true,
-	
-	// Make sure to install the font (Google is your friend)
-	"font_face": "M+ 1m light",
-	
-	// Personal preference on MacBook Pro Retina
-	"font_size": 13,
-	
-	// Not sure why I'm keeping this, but it's the default from Sublime Text
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	
-	// Another work convention, but I like it for personal projects too
-	"rulers":
-	[
-		80
-	],
-	
-	// Work convention, but I like it
-	"tab_size": 2,
-	
-	// Make sure to install it with package control
-	"theme": "Spacegray.sublime-theme",
-	
-	// Work convention, good for Ruby and JavaScript, not so good with Java
-	"translate_tabs_to_spaces": true,
-	
-	// Much needed, remove extra spaces on save
-	"trim_trailing_white_space_on_save": true,
-	
-	// Avoid those extra long lines in the editor
-	"word_wrap": true,
-	
-	// Much needed, indent automatically upon hitting "return"
-	"indent_subsequent_lines": true,
-	
-	// Love it, allow you to scroll past the end of the file, so you can edit
-	// the end of a file without looking to the bottom of your screen all the time
-	"scroll_past_end": true,
-	
-	// Self-explaining
-	"highlight_line": true
+  // In the sidebar, display folder name in bold
+  "bold_folder_labels": true,
+
+  // Make sure to install the spacegray theme first through package control
+  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+
+  // Work convention
+  "ensure_newline_at_eof_on_save": true,
+
+  // Make sure to install the font (Google is your friend)
+  "font_face": "M+ 1m light",
+
+  // Personal preference on MacBook Pro Retina
+  "font_size": 13,
+
+  // Not sure why I'm keeping this, but it's the default from Sublime Text
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+
+  // Another work convention, but I like it for personal projects too
+  "rulers":
+  [
+    80
+  ],
+
+  // Work convention, but I like it
+  "tab_size": 2,
+
+  // Make sure to install it with package control
+  "theme": "Spacegray.sublime-theme",
+
+  // Work convention, good for Ruby and JavaScript, not so good with Java
+  "translate_tabs_to_spaces": true,
+
+  // Much needed, remove extra spaces on save
+  "trim_trailing_white_space_on_save": true,
+
+  // Avoid those extra long lines in the editor
+  "word_wrap": true,
+
+  // Much needed, indent automatically upon hitting "return"
+  "indent_subsequent_lines": true,
+
+  // Love it, allow you to scroll past the end of the file, so you can edit
+  // the end of a file without looking to the bottom of your screen all the time
+  "scroll_past_end": true,
+
+  // Self-explaining
+  "highlight_line": true,
+
+  // Show the file's full path
+  "show_full_path": true
+
+  // Activate spell check
+  "spell_check": true,
+
+  // Use English dictionary
+  "dictionary": "Packages/Language - English/en_US.dic"
 }
