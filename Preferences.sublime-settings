@@ -52,7 +52,7 @@
   "highlight_line": true,
 
   // Show the file's full path
-  "show_full_path": true
+  "show_full_path": true,
 
   // Activate spell check
   "spell_check": true,
